@@ -2,66 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/homepage/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/my_projects/</loc>
     <lastmod>2021-04-19T01:50:18+05:00</lastmod>
   </url><url>
-    <loc>/homepage/my_projects/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/post/my_projects/</loc>
     <lastmod>2021-04-19T01:50:18+05:00</lastmod>
   </url><url>
-    <loc>/my_projects/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/post/</loc>
     <lastmod>2021-04-19T01:50:18+05:00</lastmod>
   </url><url>
-    <loc>/post/my_projects/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/</loc>
     <lastmod>2021-04-19T01:50:18+05:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-04-19T01:50:18+05:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-04-19T01:50:18+05:00</lastmod>
-  </url><url>
-    <loc>/homepage/my_experience/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/my_experience/</loc>
     <lastmod>2021-04-19T01:49:42+05:00</lastmod>
   </url><url>
-    <loc>/my_experience/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/post/my_experience/</loc>
     <lastmod>2021-04-19T01:49:42+05:00</lastmod>
   </url><url>
-    <loc>/post/my_experience/</loc>
-    <lastmod>2021-04-19T01:49:42+05:00</lastmod>
-  </url><url>
-    <loc>/homepage/my_education/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/my_education/</loc>
     <lastmod>2021-04-19T01:49:26+05:00</lastmod>
   </url><url>
-    <loc>/my_education/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/post/my_education/</loc>
     <lastmod>2021-04-19T01:49:26+05:00</lastmod>
   </url><url>
-    <loc>/post/my_education/</loc>
-    <lastmod>2021-04-19T01:49:26+05:00</lastmod>
-  </url><url>
-    <loc>/homepage/my-profile/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/my-profile/</loc>
     <lastmod>2021-04-16T00:33:20+05:00</lastmod>
   </url><url>
-    <loc>/my-profile/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/post/my-profile/</loc>
     <lastmod>2021-04-16T00:33:20+05:00</lastmod>
   </url><url>
-    <loc>/post/my-profile/</loc>
-    <lastmod>2021-04-16T00:33:20+05:00</lastmod>
-  </url><url>
-    <loc>/first-post/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/first-post/</loc>
     <lastmod>2021-04-15T17:28:40+05:00</lastmod>
   </url><url>
-    <loc>/homepage/first-post/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/post/first-post/</loc>
     <lastmod>2021-04-15T17:28:40+05:00</lastmod>
   </url><url>
-    <loc>/post/first-post/</loc>
-    <lastmod>2021-04-15T17:28:40+05:00</lastmod>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/bento-hugo-theme/</loc>
   </url><url>
-    <loc>/bento-hugo-theme/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/categories/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/tags/</loc>
   </url><url>
-    <loc>/tags/</loc>
-  </url><url>
-    <loc>/ua-xxxxxx-yy/</loc>
+    <loc>https://fatimafatimaprogrammer.github.io/First_Site/ua-xxxxxx-yy/</loc>
   </url>
 </urlset>

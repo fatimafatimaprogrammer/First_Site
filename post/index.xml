@@ -1,30 +1,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Urooj Fatima Raza</title>
-    <link>/post/</link>
+    <link>https://fatimafatimaprogrammer.github.io/First_Site/post/</link>
     <description>Recent content in Posts on Urooj Fatima Raza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
     <lastBuildDate>Mon, 19 Apr 2021 01:50:18 +0500</lastBuildDate>
     
-        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://fatimafatimaprogrammer.github.io/First_Site/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My_Projects</title>
-      <link>/post/my_projects/</link>
+      <link>https://fatimafatimaprogrammer.github.io/First_Site/post/my_projects/</link>
       <pubDate>Mon, 19 Apr 2021 01:50:18 +0500</pubDate>
       
-      <guid>/post/my_projects/</guid>
+      <guid>https://fatimafatimaprogrammer.github.io/First_Site/post/my_projects/</guid>
       <description>&lt;h3 id=&#34;-healthaholic-application&#34;&gt;📕 “HEALTHAHOLIC APPLICATION”:&lt;/h3&gt;
 &lt;p&gt;application for our end semester project is a kind of application that is mixture of health suggestions (both physical and mental)and some games and riddles brain bosters brain teasers that boost our energy level.The motive behind that application is that we are so much busy in our daily life and find no time for our daily mental and physical health maintenance and therapy.so this is beneficial as it suggest some daily based exercises to release our tension and fatique. Code for this application is written in java using two compilers that are netbeans(for simple coding layout without javafx) and intellij(for converting the code into the graphical user interface using javafx). CODE FOR OUR APPLICATION INCLUDES: Our code includes total of 13 classes and and 7 .jpeg files and also one media file.this code aims to achieve four main pilers of object oriented programming and we achieved all these pillers. Demonstration about running the code: Firstly,user menu opens and ask you for login both ways if you are new user or old user then if you are old user it ask you for your id and name and matches with your information stored in the database if it matches it allows you to chose the different options of healthaholic and move further trying some options with physical health some with mental health also play games that boost your iq level and maintains ,improves your physical health.also there are options if you want to check your credencials and there is also an option for your comments. If you login as a new user it asks you for your credentials and once you enter all information it stores your information in the database and assigns you the unique id which you have to remember for latter usage with apps and shows the button with title “lets start”.when you click that you are open with main menu with different options you can choose any of them.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;img src=&#34;/images/project1.jpeg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/th&gt;
-&lt;th&gt;&lt;img src=&#34;/images/project1.jpeg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/th&gt;
-&lt;th&gt;&lt;img src=&#34;/images/project1.jpeg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/project1.jpeg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/project1.jpeg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/project1.jpeg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;/table&gt;
@@ -42,13 +42,13 @@
 &lt;li&gt;display books genre wise&lt;/li&gt;
 &lt;li&gt;Search a book&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;/images/lib.jpg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/lib.jpg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;source-code-1&#34;&gt;SOURCE CODE:&lt;/h5&gt;
 &lt;p&gt;(&lt;a href=&#34;https://github.com/fatimafatimaprogrammer/library-managment-system&#34;&gt;https://github.com/fatimafatimaprogrammer/library-managment-system&lt;/a&gt;)&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;-imbd-mini-project&#34;&gt;📕 “IMBD-MINI-PROJECT”:&lt;/h3&gt;
 &lt;p&gt;it was project of data structures and algorithms and was written in c++ using data structurs.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/dsa.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/dsa.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;source-code-2&#34;&gt;SOURCE CODE:&lt;/h5&gt;
 &lt;p&gt;(&lt;a href=&#34;https://github.com/fatimafatimaprogrammer/IMBD-MINI-PROJECT&#34;&gt;https://github.com/fatimafatimaprogrammer/IMBD-MINI-PROJECT&lt;/a&gt;)&lt;/p&gt;
 </description>
@@ -56,36 +56,36 @@
     
     <item>
       <title>My_Experience</title>
-      <link>/post/my_experience/</link>
+      <link>https://fatimafatimaprogrammer.github.io/First_Site/post/my_experience/</link>
       <pubDate>Mon, 19 Apr 2021 01:49:42 +0500</pubDate>
       
-      <guid>/post/my_experience/</guid>
+      <guid>https://fatimafatimaprogrammer.github.io/First_Site/post/my_experience/</guid>
       <description>&lt;h4 id=&#34;deputy-director-web--it&#34;&gt;✏️deputy director &lt;strong&gt;WEB &amp;amp; IT&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;NUST IEEE-SEECS Student Branch
-&lt;img src=&#34;/images/ieee.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/ieee.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
 &lt;p&gt;you can find me in Meet the team section at IEEE OFFICIAL Site💻
 (&lt;a href=&#34;https://ieeeseecs.com/the-team/&#34;&gt;https://ieeeseecs.com/the-team/&lt;/a&gt;)&lt;/p&gt;
 &lt;h4 id=&#34;finance-executive&#34;&gt;✏️&lt;strong&gt;Finance&lt;/strong&gt; Executive&lt;/h4&gt;
 &lt;p&gt;NUST-SEECS Student Government Association (SGA)
-&lt;img src=&#34;/images/sga.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/sga.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;human-resources-executive-admin-events&#34;&gt;✏️&lt;strong&gt;Human Resources&lt;/strong&gt; Executive &lt;strong&gt;(Admin Events)&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;NUST Cyber Security Club
-&lt;img src=&#34;/images/ncs.jpg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/ncs.jpg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;finance-executive-1&#34;&gt;✏️&lt;strong&gt;Finance&lt;/strong&gt; Executive&lt;/h4&gt;
 &lt;p&gt;NUST IEEE-SEECS Student Branch
-&lt;img src=&#34;/images/ieee.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/ieee.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;executive-internal-affairs-team-media&#34;&gt;✏️Executive &lt;strong&gt;Internal Affairs&lt;/strong&gt; Team Media&lt;/h4&gt;
 &lt;p&gt;Youth Entrepreneurial Society - NUST SEECS
-&lt;img src=&#34;/images/yes.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/yes.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>My_Education</title>
-      <link>/post/my_education/</link>
+      <link>https://fatimafatimaprogrammer.github.io/First_Site/post/my_education/</link>
       <pubDate>Mon, 19 Apr 2021 01:49:26 +0500</pubDate>
       
-      <guid>/post/my_education/</guid>
+      <guid>https://fatimafatimaprogrammer.github.io/First_Site/post/my_education/</guid>
       <description>&lt;blockquote&gt;
 &lt;h3 id=&#34;my-degrees--&#34;&gt;MY DEGREES ‍🎓 :&lt;/h3&gt;
 &lt;/blockquote&gt;
@@ -102,16 +102,16 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;img src=&#34;/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;Operating Systems and You: Becoming a Power User&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/TNDDXEUWXLA7&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/TNDDXEUWXLA7&lt;/a&gt;)&lt;/th&gt;
-&lt;th&gt;&lt;img src=&#34;/images/m.jpg&#34; alt=&#34;GitHub Logo&#34;&gt; &lt;span style=&#34;color:#b30047;&#34;&gt;Using Databases with Python&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/UKCDUZ96ZYHM&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/UKCDUZ96ZYHM&lt;/a&gt;)&lt;/th&gt;
-&lt;th&gt;&lt;img src=&#34;/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;Technical Support Fundamentals&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/K97ZCA2N4NER&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/K97ZCA2N4NER&lt;/a&gt;)&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;Operating Systems and You: Becoming a Power User&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/TNDDXEUWXLA7&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/TNDDXEUWXLA7&lt;/a&gt;)&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/m.jpg&#34; alt=&#34;GitHub Logo&#34;&gt; &lt;span style=&#34;color:#b30047;&#34;&gt;Using Databases with Python&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/UKCDUZ96ZYHM&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/UKCDUZ96ZYHM&lt;/a&gt;)&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;Technical Support Fundamentals&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/K97ZCA2N4NER&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/K97ZCA2N4NER&lt;/a&gt;)&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;The Bits and Bytes of Computer Networking&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/XBDAD3YJV93M&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/XBDAD3YJV93M&lt;/a&gt;)&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;/images/m.jpg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;Python Data Structures&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/99PPMD4PSLFQ&#34;&gt;https://www.coursera.org/account/accomplishments/verify/99PPMD4PSLFQ&lt;/a&gt;)&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt; &lt;span style=&#34;color:#b30047;&#34;&gt;System Administration and IT Infrastructure Services&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/8B6GA4CD2542&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/8B6GA4CD2542&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;The Bits and Bytes of Computer Networking&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/XBDAD3YJV93M&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/XBDAD3YJV93M&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/m.jpg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;Python Data Structures&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/99PPMD4PSLFQ&#34;&gt;https://www.coursera.org/account/accomplishments/verify/99PPMD4PSLFQ&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt; &lt;span style=&#34;color:#b30047;&#34;&gt;System Administration and IT Infrastructure Services&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/8B6GA4CD2542&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/8B6GA4CD2542&lt;/a&gt;)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description>
@@ -119,10 +119,10 @@
     
     <item>
       <title>My Profile</title>
-      <link>/post/my-profile/</link>
+      <link>https://fatimafatimaprogrammer.github.io/First_Site/post/my-profile/</link>
       <pubDate>Fri, 16 Apr 2021 00:33:20 +0500</pubDate>
       
-      <guid>/post/my-profile/</guid>
+      <guid>https://fatimafatimaprogrammer.github.io/First_Site/post/my-profile/</guid>
       <description>&lt;h2 id=&#34;span-stylecolorb30047--hello-im-fatima-span&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;  HEllo!!👋 I&amp;rsquo;m Fatima &lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;span style=&#34;color:#b30047; &#34;&gt; Doing Batchlers In Computer Science studying from Nust (National university of Sciemce And Technology)
 and My interests are :
@@ -136,11 +136,11 @@ favourite &lt;/span&gt;&lt;/p&gt;</description>
     
     <item>
       <title>Description For MY 64-BIT OS (operating system)</title>
-      <link>/post/first-post/</link>
+      <link>https://fatimafatimaprogrammer.github.io/First_Site/post/first-post/</link>
       <pubDate>Thu, 15 Apr 2021 17:28:40 +0500</pubDate>
       
-      <guid>/post/first-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/os.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+      <guid>https://fatimafatimaprogrammer.github.io/First_Site/post/first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/os.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h3 id=&#34;tools-used&#34;&gt;Tools used:&lt;/h3&gt;
 &lt;/blockquote&gt;
@@ -172,7 +172,7 @@ Stack is the region of our computers memory that stores function called data whi
 &lt;blockquote&gt;
 &lt;h3 id=&#34;output-screenshot&#34;&gt;Output Screenshot:&lt;/h3&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;/images/NUST.PNG&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fatimafatimaprogrammer.github.io/First_Site/images/NUST.PNG&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h3 id=&#34;errors-i-came-across-and-solution&#34;&gt;Errors I came across and solution:&lt;/h3&gt;
 &lt;/blockquote&gt;

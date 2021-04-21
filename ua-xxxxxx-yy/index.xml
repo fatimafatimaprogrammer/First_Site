@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UA-XXXXXX-YY on Urooj Fatima Raza</title>
-    <link>/ua-xxxxxx-yy/</link>
+    <link>https://fatimafatimaprogrammer.github.io/First_Site/ua-xxxxxx-yy/</link>
     <description>Recent content in UA-XXXXXX-YY on Urooj Fatima Raza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
     
-        <atom:link href="/ua-xxxxxx-yy/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://fatimafatimaprogrammer.github.io/First_Site/ua-xxxxxx-yy/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
