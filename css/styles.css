@@ -1,9 +1,9 @@
 /* Tailwind base - put variables under: tailwind.config.js */
-@import "https://github.com/fatimafatimaprogrammer/First_Site/blob/master/css/tailwind.config.js";
+@import "css/tailwind.config.js";
 /* Tailwind component classes registered by plugins*/
-@import "node_modules/components";
+@import "css/node_modules/components.css";
 /* Site Specific */
-@import "https://github.com/fatimafatimaprogrammer/First_Site/blob/master/css/site.css";
-@import "https://github.com/fatimafatimaprogrammer/First_Site/blob/master/css/syntax.css";
+@import "css/node_modules/site.css";
+@import "css/syntax.css";
 /* Tailwind's utility classes - generated based on config file */
-@import "node_modules/utilities";
+@import "css/node_modules/utilities.css";
