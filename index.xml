@@ -1,0 +1,219 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urooj Fatima Raza</title>
+    <link>/</link>
+    <description>Recent content on Urooj Fatima Raza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    <lastBuildDate>Mon, 19 Apr 2021 01:50:18 +0500</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Homepages</title>
+      <link>/homepage/</link>
+      <pubDate>Mon, 19 Apr 2021 01:50:18 +0500</pubDate>
+      
+      <guid>/homepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My_Projects</title>
+      <link>/my_projects/</link>
+      <pubDate>Mon, 19 Apr 2021 01:50:18 +0500</pubDate>
+      
+      <guid>/my_projects/</guid>
+      <description>&lt;h3 id=&#34;-healthaholic-application&#34;&gt;📕 “HEALTHAHOLIC APPLICATION”:&lt;/h3&gt;
+&lt;p&gt;application for our end semester project is a kind of application that is mixture of health suggestions (both physical and mental)and some games and riddles brain bosters brain teasers that boost our energy level.The motive behind that application is that we are so much busy in our daily life and find no time for our daily mental and physical health maintenance and therapy.so this is beneficial as it suggest some daily based exercises to release our tension and fatique. Code for this application is written in java using two compilers that are netbeans(for simple coding layout without javafx) and intellij(for converting the code into the graphical user interface using javafx). CODE FOR OUR APPLICATION INCLUDES: Our code includes total of 13 classes and and 7 .jpeg files and also one media file.this code aims to achieve four main pilers of object oriented programming and we achieved all these pillers. Demonstration about running the code: Firstly,user menu opens and ask you for login both ways if you are new user or old user then if you are old user it ask you for your id and name and matches with your information stored in the database if it matches it allows you to chose the different options of healthaholic and move further trying some options with physical health some with mental health also play games that boost your iq level and maintains ,improves your physical health.also there are options if you want to check your credencials and there is also an option for your comments. If you login as a new user it asks you for your credentials and once you enter all information it stores your information in the database and assigns you the unique id which you have to remember for latter usage with apps and shows the button with title “lets start”.when you click that you are open with main menu with different options you can choose any of them.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;/images/project1.jpeg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;/images/project1.jpeg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;/images/project1.jpeg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;Also,another feature is sound you can also turn on and off the music and increase or decrease the volume as well. This code is very descriptive due to comments in it.and after completing with this our learning outcomes are: • Better detail understanding of oop concepts (classes and objects and 4 pillars inheritance,polymorphism,encapsulation,abstraction) • Coding in java. • Javafx. • Dealing with animations. • Dealing with media files and images.&lt;/p&gt;
+&lt;h5 id=&#34;source-code&#34;&gt;SOURCE CODE:&lt;/h5&gt;
+&lt;p&gt;(&lt;a href=&#34;https://github.com/fatimafatimaprogrammer/end-semister-project-oop-java-&#34;&gt;https://github.com/fatimafatimaprogrammer/end-semister-project-oop-java-&lt;/a&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-library-managment-system&#34;&gt;📕 “library-managment-system”:&lt;/h3&gt;
+&lt;p&gt;Management system for library. It was written in C language.the functions included in our system are :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;issue a book&lt;/li&gt;
+&lt;li&gt;delete a book&lt;/li&gt;
+&lt;li&gt;add a book&lt;/li&gt;
+&lt;li&gt;return a book&lt;/li&gt;
+&lt;li&gt;display books genre wise&lt;/li&gt;
+&lt;li&gt;Search a book&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/images/lib.jpg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;source-code-1&#34;&gt;SOURCE CODE:&lt;/h5&gt;
+&lt;p&gt;(&lt;a href=&#34;https://github.com/fatimafatimaprogrammer/library-managment-system&#34;&gt;https://github.com/fatimafatimaprogrammer/library-managment-system&lt;/a&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-imbd-mini-project&#34;&gt;📕 “IMBD-MINI-PROJECT”:&lt;/h3&gt;
+&lt;p&gt;it was project of data structures and algorithms and was written in c++ using data structurs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/dsa.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;source-code-2&#34;&gt;SOURCE CODE:&lt;/h5&gt;
+&lt;p&gt;(&lt;a href=&#34;https://github.com/fatimafatimaprogrammer/IMBD-MINI-PROJECT&#34;&gt;https://github.com/fatimafatimaprogrammer/IMBD-MINI-PROJECT&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Mon, 19 Apr 2021 01:50:18 +0500</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My_Experience</title>
+      <link>/my_experience/</link>
+      <pubDate>Mon, 19 Apr 2021 01:49:42 +0500</pubDate>
+      
+      <guid>/my_experience/</guid>
+      <description>&lt;h4 id=&#34;deputy-director-web--it&#34;&gt;✏️deputy director &lt;strong&gt;WEB &amp;amp; IT&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;NUST IEEE-SEECS Student Branch
+&lt;img src=&#34;/images/ieee.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;you can find me in Meet the team section at IEEE OFFICIAL Site💻
+(&lt;a href=&#34;https://ieeeseecs.com/the-team/&#34;&gt;https://ieeeseecs.com/the-team/&lt;/a&gt;)&lt;/p&gt;
+&lt;h4 id=&#34;finance-executive&#34;&gt;✏️&lt;strong&gt;Finance&lt;/strong&gt; Executive&lt;/h4&gt;
+&lt;p&gt;NUST-SEECS Student Government Association (SGA)
+&lt;img src=&#34;/images/sga.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;human-resources-executive-admin-events&#34;&gt;✏️&lt;strong&gt;Human Resources&lt;/strong&gt; Executive &lt;strong&gt;(Admin Events)&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;NUST Cyber Security Club
+&lt;img src=&#34;/images/ncs.jpg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;finance-executive-1&#34;&gt;✏️&lt;strong&gt;Finance&lt;/strong&gt; Executive&lt;/h4&gt;
+&lt;p&gt;NUST IEEE-SEECS Student Branch
+&lt;img src=&#34;/images/ieee.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;executive-internal-affairs-team-media&#34;&gt;✏️Executive &lt;strong&gt;Internal Affairs&lt;/strong&gt; Team Media&lt;/h4&gt;
+&lt;p&gt;Youth Entrepreneurial Society - NUST SEECS
+&lt;img src=&#34;/images/yes.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My_Education</title>
+      <link>/my_education/</link>
+      <pubDate>Mon, 19 Apr 2021 01:49:26 +0500</pubDate>
+      
+      <guid>/my_education/</guid>
+      <description>&lt;blockquote&gt;
+&lt;h3 id=&#34;my-degrees--&#34;&gt;MY DEGREES ‍🎓 :&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;National University of Sciences and Technology, Islamabad&lt;/p&gt;
+&lt;p&gt;DOING 😉 Bachelor&amp;rsquo;s in Computer Sciences&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;my-resumehttpsdrivegooglecomfiled1yujy1-dfdi4b06amc-etk9d_vzvzkqbtview&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YUjY1-dfDI4b06AMC-etk9d_VzVzKqBt/view&#34;&gt;&lt;strong&gt;My Resume📜&lt;/strong&gt;.&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Punjab Group Of College, Islamabad&lt;/p&gt;
+&lt;p&gt;Intermediate&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;my-certificates-&#34;&gt;MY CERTIFICATES 📑&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;Operating Systems and You: Becoming a Power User&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/TNDDXEUWXLA7&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/TNDDXEUWXLA7&lt;/a&gt;)&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;/images/m.jpg&#34; alt=&#34;GitHub Logo&#34;&gt; &lt;span style=&#34;color:#b30047;&#34;&gt;Using Databases with Python&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/UKCDUZ96ZYHM&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/UKCDUZ96ZYHM&lt;/a&gt;)&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;Technical Support Fundamentals&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/K97ZCA2N4NER&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/K97ZCA2N4NER&lt;/a&gt;)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;The Bits and Bytes of Computer Networking&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/XBDAD3YJV93M&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/XBDAD3YJV93M&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;/images/m.jpg&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;Python Data Structures&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/99PPMD4PSLFQ&#34;&gt;https://www.coursera.org/account/accomplishments/verify/99PPMD4PSLFQ&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;/images/google.png&#34; alt=&#34;GitHub Logo&#34;&gt; &lt;span style=&#34;color:#b30047;&#34;&gt;System Administration and IT Infrastructure Services&lt;/span&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/8B6GA4CD2542&#34;&gt;https://www.coursera.org/account/accomplishments/certificate/8B6GA4CD2542&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Profile</title>
+      <link>/my-profile/</link>
+      <pubDate>Fri, 16 Apr 2021 00:33:20 +0500</pubDate>
+      
+      <guid>/my-profile/</guid>
+      <description>&lt;h2 id=&#34;span-stylecolorb30047--hello-im-fatima-span&#34;&gt;&lt;span style=&#34;color:#b30047;&#34;&gt;  HEllo!!👋 I&amp;rsquo;m Fatima &lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&#34;color:#b30047; &#34;&gt; Doing Batchlers In Computer Science studying from Nust (National university of Sciemce And Technology)
+and My interests are :
+Technology 😄
+FOOD 🥪 🌽
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;font-family:Algerian; color:#b30047;&#34;&gt;and ofcourse pink  🧁  &lt;/span&gt;
+&lt;span style=&#34;font-family:Algerian; color:#660066;&#34;&gt;and PURPLE 🍷 are my
+favourite &lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Description For MY 64-BIT OS (operating system)</title>
+      <link>/first-post/</link>
+      <pubDate>Thu, 15 Apr 2021 17:28:40 +0500</pubDate>
+      
+      <guid>/first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/os.png&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;tools-used&#34;&gt;Tools used:&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Visual Studio code&lt;/li&gt;
+&lt;li&gt;Qemu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;First I followed the video lectures recommended for this task and made a 32 bit OS with much simpler functionalities and arranged all our assembly and other related files properly in a single folder and edit those files using VISUAL studio code.some of files were :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;MakeFile:&lt;/strong&gt; is a handy tool for organizing all your build commands and make sure that only files that have been modified can get rebuilt
+We use –f f flag to change the format of nasm file to elf64&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.asm:&lt;/strong&gt; assembly files that written in assembly language and this language is easy for interacting with the hardware.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;upgrading-the-os-to-64-bit&#34;&gt;Upgrading the OS to 64 BIT&lt;/h5&gt;
+&lt;p&gt;1.&lt;strong&gt;stack&lt;/strong&gt; :we setup stack which is crucial to allow us to link it to c++.
+2.after that we switched our operating system to 64 bit code
+And then we wrote some C code to print any text on to the screen.as requirement for our assignment i wrote a function that prints the &lt;strong&gt;NUST text using astericks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;afterwards We set up the stack in the &lt;strong&gt;main .asm&lt;/strong&gt; .
+Stack is the region of our computers memory that stores function called data which includes any local variables and also the memory address to which the each function returns control upon completion.as functions are called the stack grows and as function returns data is poped from the stack.each segment for a given function call is reffered to as a stack frame.and it is very easy to setup a stack and once it is done we’ll be able to run c code which will handle all stack relation for us&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;source-code&#34;&gt;Source Code:&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;all the source code is available on github repository&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&#34;https://github.com/fatimafatimaprogrammer/My_Own_64bit_OS&#34;&gt;https://github.com/fatimafatimaprogrammer/My_Own_64bit_OS&lt;/a&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;output-screenshot&#34;&gt;Output Screenshot:&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;/images/NUST.PNG&#34; alt=&#34;GitHub Logo&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;errors-i-came-across-and-solution&#34;&gt;Errors I came across and solution:&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Installation of wsl2 which is required for running the docker demon virtually&lt;/li&gt;
+&lt;li&gt;Error in including the C and C++ header files so that i downloaded the mingW AND updated its path&lt;/li&gt;
+&lt;li&gt;Error regarding the wrong path for qemu which i solved by updating the path from environmental variables&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;references&#34;&gt;References:&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Reference for Docker Installation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;use the &lt;strong&gt;following link&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&#34;https://docs.docker.com/docker-for-windows/install/#system-requirements-for-wsl-2-backend&#34;&gt;https://docs.docker.com/docker-for-windows/install/#system-requirements-for-wsl-2-backend&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reference for Vs Code Installation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;use the &lt;strong&gt;following link&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://code.visualstudio.com/download/&#34;&gt;https://code.visualstudio.com/download/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reference for Qemu Installation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;use the &lt;strong&gt;following link&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.qemu.org/download/&#34;&gt;https://www.qemu.org/download/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video Reference for 64-bit OS:&lt;/strong&gt;&lt;/p&gt;
+ &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/wz9CZBeXR6U&#34; title=&#34;video 3&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allow full screen&gt; &lt;/iframe&gt;
+ &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_9AWYlt86B8&#34; title=&#34;video 1&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allow full screen&gt; &lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
